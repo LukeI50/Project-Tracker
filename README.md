@@ -9,3 +9,20 @@ It is primarilly designed to fulfill a note taking functionality for students ha
 
 *The Target Audience:*
 The primary target audience is university students. However, it will also have potential applications for other positions such as reserch assistants, general project management in multiple sectors, etc.
+
+
+## Plan of Action
+### MVP (minimum viable product)
+The following table contains the most needed features for the app to function well, while prioritising the needs of the Target Audience.
+
+- User registration and login will be needed to ensure the privacy of each indivudials work.
+- creation of multiple project workspaces.
+- ability to create tasks, so that students may keep track of what they have done and what still needs doing.
+- task content, so that tasks can be expanded on to clarify short check points for group projects.
+- Creation of notes so that students can make notes on their project as they go.
+- Creation of essay, so students can type out their essay and have it remain tied to their projects workspace.
+
+
+
+(not technically MVP)
+- ability for project creator to add authorised editors so that groups can have access to the same workspace.
