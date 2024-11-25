@@ -24,7 +24,20 @@ The following table contains the most needed features for the app to function we
 |User can add notes to project|Ensuring they are able to keep track of ideas|             |
 |User can update notes & tasks|Meaning they can add and remove information as needed|     |
 |User can write essay     |So that their essay is kept with the rest of their project|    |
-|User can delete project board|Keeps their workspace clean once a subject is complete|    |
+|Owners can delete project board|Keeps their workspace clean once a subject is complete|  |
+
+
+### Additional Features
+The following table contains a list of additional features for future iterations of the app. These will either be coded as 'should haves', 'could haves', or 'wont haves' once the relevant issues are created.
+
+|Feature                        |Relevance                                         |Extra Info                                                                  |
+|:-----------------------------:|:------------------------------------------------:|:--------------------------------------------------------------------------:|
+|User can login with socials    |This makes it easier for students to access       |Likely to be 'wont have' and reserved for future iteration                  |
+|User can add editors to project|As may be required for group projects             |Should be able to utilise the built in group model of django to achieve this|
+|Editors can add project tasks  |Allows group to contribute to project direction   |                                                                            |
+|Editors can update tasks status|Allows group to update current progress of project|Probably a 'could have'                                                     |
+|Users can update task status by dragging task to relevant section|Increases responsiveness|Essentially mimmiking github's project board                        |
+|List of owned projects is sortable by title|Increases convenience for students to find specific subject notes|Probably 'could have'                            |
 
 
 
