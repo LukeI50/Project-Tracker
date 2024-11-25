@@ -36,7 +36,7 @@ The following table contains a list of additional features for future iterations
 |User can add editors to project|As may be required for group projects             |Should be able to utilise the built in group model of django to achieve this|
 |Editors can add project tasks  |Allows group to contribute to project direction   |                                                                            |
 |Editors can update tasks status|Allows group to update current progress of project|Probably a 'could have'                                                     |
-|Users can update task status by dragging task to relevant section|Increases responsiveness|Essentially mimmiking github's project board                        |
+|Users can update task status by dragging task to relevant section|Increases responsiveness|Essentially mimicking github's project board                        |
 |List of owned projects is sortable by title|Increases convenience for students to find specific subject notes|Probably 'could have'                            |
 |Filter tasks by status         |Making them more accessible                       |                                                                            |
 |Filter projects by Editor names|for better access to group work                   |                                                                            |
