@@ -2,7 +2,7 @@
 This project project is meant to be a project tracker with built in functionality for a kanban board (glorified todo list), a notes section, and possibly a sources/references section.
 
 *The Problem:*
-Many students struggle to find a method of taking notes that allows them to keep an easily accessible record/log of all their findings in one place. Many differing tools are often strung together in order to fill this, rather than there just being one.
+Many students struggle to find a method of taking notes that allows them to keep an easily accessible record/log of all their findings in one place. Many differing tools are often strung together in order to fill this, rather than there just being one. It also provides a way for them to track their progress as they progress.
 
 *The Purpose:*
 It is primarilly designed to fulfill a note taking functionality for students having to write research papers. The kanban board will allow them to keep track of what they need to do. The notes can literally contain an essay as they write it, and lastly the references section will allow them to add their sources to the board as well.
@@ -15,9 +15,17 @@ The primary target audience is university students. However, it will also have p
 ### MVP (minimum viable product)
 The following table contains the most needed features for the app to function well, while prioritising the needs of the Target Audience.
 
-|Feature    |Relevance to Problem   |Extra Info   |
-| --------- |:---------------------:| -----------:|
-|User registration & login|Privacy of students work|Pertinant to issues such as plagarism|
+|Feature                  |Relevance to Problem    |Extra Info                            |
+|:-----------------------:|:----------------------:|:------------------------------------:|
+|User registration & login|Privacy of students work|Pertinant to issues such as plagarism |
+|User can view tasks board|Allows User to see complete vs incomplete tasks|               |
+|User can add tasks       |Allows user to create list of needed tasks to complete|        |
+|User can delete tasks    |Allows user to remove un-needed tasks|                         |
+|User can add notes to project|Ensuring they are able to keep track of ideas|             |
+|User can update notes & tasks|Meaning they can add and remove information as needed|     |
+|User can write essay     |So that their essay is kept with the rest of their project|    |
+|User can delete project board|Keeps their workspace clean once a subject is complete|    |
+
 
 
 
