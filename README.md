@@ -38,6 +38,8 @@ The following table contains a list of additional features for future iterations
 |Editors can update tasks status|Allows group to update current progress of project|Probably a 'could have'                                                     |
 |Users can update task status by dragging task to relevant section|Increases responsiveness|Essentially mimmiking github's project board                        |
 |List of owned projects is sortable by title|Increases convenience for students to find specific subject notes|Probably 'could have'                            |
+|Filter tasks by status         |Making them more accessible                       |                                                                            |
+|Filter projects by Editor names|for better access to group work                   |                                                                            |
 
 
 
