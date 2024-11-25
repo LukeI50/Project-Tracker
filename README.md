@@ -15,6 +15,12 @@ The primary target audience is university students. However, it will also have p
 ### MVP (minimum viable product)
 The following table contains the most needed features for the app to function well, while prioritising the needs of the Target Audience.
 
+|Feature    |Relevance to Problem   |Extra Info   |
+| --------- |:---------------------:| -----------:|
+|User registration & login|Privacy of students work|Pertinant to issues such as plagarism|
+
+
+
 - User registration and login will be needed to ensure the privacy of each indivudials work.
 - creation of multiple project workspaces.
 - ability to create tasks, so that students may keep track of what they have done and what still needs doing.
